@@ -16,7 +16,7 @@ header-img : /images/iceland_travel.JPG
 
 <div class="justified-text">
 <p>Halò/Hi there, 
-My name is Victoria (ビクトリア), I work as a Vision-LLM engineer in <b>Woven by Toyota</b>, and I am based in Tokyo. I am part of the Perception Team led by Wadim Kehl. I am mainly interested in studying and solving ML problems on interdiscplinary domains: these problems involve among others <b>Multimodal Learning (Vision-Audio-Language)</b> and <b>Cognitive Science</b>.<br><br>
+My name is Victoria (ビクトリア), I work as a Vision-LLM engineer in <b>Woven by Toyota</b>, and I am based in Tokyo. I am part of the AD/ADAS Perception Team led by <a href="http://wadimkehl.github.io/">Wadim Kehl</a>. I am mainly interested in studying and solving ML problems on interdiscplinary domains: these problems involve among others <b>Multimodal Learning (Vision-Audio-Language)</b> and <b>Cognitive Science</b>.<br><br>
 
 I spent one year as a Visiting Student then a research assistant in Cognitive Science and Natural Language Processing at the University of Edinburgh, in <b><a href="https://homepages.inf.ed.ac.uk/keller/" style="text-decoration:none;">Frank Keller's Group</a></b>. My research focused on exploring <b>diffusion models</b> capabilities to decode non-invasive brain signals to text and representation learning of those brain signals.
 I graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (<b>Master MVA</b>).<br><br>
@@ -26,11 +26,8 @@ You can also find in details the courses I followed during my master <a href="ht
 Alongside my work, I develop with a friend <b><a href="#" style="text-decoration:none;">Nepthune</a></b>. Nepthune an online platform which draws up a list of all the scholarships accessible to students in France and shortlists automatically the best candidates to those fellowships. Through Nepthune, our goal is to tackle the ineauqlity of opportunities in Higher Education!
 <br><br>
 Outside of work, I love practicing all kinds of sports, especially gymnastics, bouldering, basketball, hip hop, and skateboarding. I also enjoy long hikes in Scottish highlands.
-</p>
-
 
 Feel free to reach out or drop me an email if you would like to chat!<br><br>
-
 </p>
 
 <figure>
